@@ -4,10 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-Aquí tienes alguna información sobre mí
-### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
 Recuerda que puedes <strong>contactar</strong> conmigo de la siguiente manera:
 <ul>
  	<li>Twitter: <a href="https://twitter.com/podcastlinux">@podcastlinux</a></li>
@@ -24,6 +21,3 @@ No te olvides suscribirte en <a href="http://www.ivoox.com/podcast-podcast-linux
 El feed del programa es <a href="https://feedpress.me/podcastlinux">https://feedpress.me/podcastlinux</a>
 
 
-### Contacto
-
-[podcastlinux@gmail.com](mailto:podcastlinux@gmail.com)
