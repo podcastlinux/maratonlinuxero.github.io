@@ -24,10 +24,10 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: https://feedpress.me/podcastlinux
   twitter: podcastlinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/podcastlinux
+  youtube: channel/UCQq5zDbICax1W6UiNf71RoA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
