@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Podcast Linux
+name:Podcast Linux
 
 # Short bio or description (displayed in the header)
-description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
+description:El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/podcastlinux/podcastlinux.github.io/blob/master/Podcast-Linux-logo.jpg
+avatar:https://github.com/podcastlinux/podcastlinux.github.io/blob/master/Podcast-Linux-logo.jpg
 
 #
 # Flags below are optional
@@ -22,14 +22,14 @@ footer-links:
   email:podcastlinux@gmail.com
   facebook:
   flickr:
-  github: https://github.com/podcastlinux
+  github:https://github.com/podcastlinux
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @podcastlinux
+  twitter:@podcastlinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/<podcastlinux>
+  youtube:user/<podcastlinux>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -47,7 +47,7 @@ url:http://avpodcast.net/podcastlinux/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/podcastlinux.github.io"
+baseurl:"/podcastlinux.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
