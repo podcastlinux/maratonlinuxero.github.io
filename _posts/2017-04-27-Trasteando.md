@@ -9,7 +9,7 @@ Gracias a [Ugeek](https://ugeek.github.io/) , veo posible un sueño de muchos am
 
 El primer paso es crear una cuenta en [Archive.org](https://archive.org/) para alojar como backup todos mis episodios.
 
-https://archive.org/details/@podcast_linux
+[https://archive.org/details/@podcast_linux](https://archive.org/details/@podcast_linux)
 
 Lo siguiente será poder crear un feed en pruebas para ver la viabilidad GitHub + Archive.org en el podcasting.
 
