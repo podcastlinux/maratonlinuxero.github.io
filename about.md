@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Acerca de
+title: Métodos de contacto
 permalink: /about/
 ---
 
 
-Recuerda que puedes <strong>contactar</strong> conmigo de la siguiente manera:
+Puedes <strong>contactar</strong> conmigo de la siguiente manera:
 <ul>
  	<li>Twitter: <a href="https://twitter.com/podcastlinux">@podcastlinux</a></li>
  	<li>Correo: <a href="mailto:podcastlinux@avpodcast.net">podcastlinux@avpodcast.net</a></li>
