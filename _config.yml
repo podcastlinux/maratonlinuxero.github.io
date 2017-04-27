@@ -17,17 +17,17 @@ avatar: https://avatars0.githubusercontent.com/u/23723653?v=3&u=9f85798f695e3d2a
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: podcastlinux@avpodcast.net
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: podcastlinux.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: podcastlinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/<podcastlinux>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://podcastlinux.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
