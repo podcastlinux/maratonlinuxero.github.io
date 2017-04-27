@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Podcast Linux
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/podcastlinux/podcastlinux.github.io/blob/master/Podcast-Linux-logo.jpg
 
 #
 # Flags below are optional
@@ -18,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:podcastlinux@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
@@ -26,11 +27,10 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: @podcastlinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/<podcastlinux>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
