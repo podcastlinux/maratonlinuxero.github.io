@@ -14,6 +14,6 @@ Es una forma de experimentar para aportar nuevas ideas, tanto a [Podcast Linux](
 Además de Podcast Linux, colaboro en [DroidTalks](https://avpodcast.net/droidtalks/), como contertulio y editando cada episodio, y en [360 grados](http://avpodcast.net/360/), un daily que 
 tampoco te puedes perder.
 
-Te invito a echarle un vistazo a toda su parrilla, que va desde lo humano, pasando por lo tecnológico y porqué no, también el humor. Grandes podcasters que, de forma independiente dan lo mejor de sí.
+Te invito a echarle un vistazo a toda su parrilla, que va desde lo humano, pasando por lo tecnológico y porqué no, también el humor. Grandes podcasters que, de forma independiente, dan lo mejor de sí.
 
 De la [Red AVPodcast](https://avpodcast.net/).
