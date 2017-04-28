@@ -10,6 +10,7 @@ Me siento parte de un proyecto que quiere divulgar este medio y cada uno aporta 
 que somos un grupo cohesionado y con las ideas muy claras.
 
 Este proyecto que tengo entre manos, GitHub + Archive.org, no significa que me distancie de ellos. Al revés.
+Es una forma de experimentar para aportar nuevas ideas, tanto a [Podcast Linux](https://avpodcast.net/podcastlinux/) como a la Red.
 Además de Podcast Linux, colaboro en [DroidTalks](https://avpodcast.net/droidtalks/), como contertulio y editando cada episodio, y en [360 grados](http://avpodcast.net/360/), un daily que 
 tampoco te puedes perder.
 
