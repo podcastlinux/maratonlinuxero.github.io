@@ -10,9 +10,9 @@ Me siento parte de un proyecto que quiere divulgar este medio y cada uno aporta 
 que somos un grupo cohesionado y con las ideas muy claras.
 
 Este proyecto que tengo entre manos, GitHub + Archive.org, no significa que me distancie de ellos. Al revés.
-Además de Podcast Linux, colaboro en DroidTalks, como contertulio y editando cada episodio, y en 360 grados, un daily que 
+Además de Podcast Linux, colaboro en [DroidTalks](https://avpodcast.net/droidtalks/), como contertulio y editando cada episodio, y en [360 grados](http://avpodcast.net/360/), un daily que 
 tampoco te puedes perder.
 
 Te invito a echarle un vistazo a toda su parrilla, que va desde lo humano, pasando por lo tecnológico y porqué no, también el humor. Grandes podcasters que, de forma independiente dan lo mejor de sí.
 
-De la Red AVPodcast.
+De la [Red AVPodcast](https://avpodcast.net/).
