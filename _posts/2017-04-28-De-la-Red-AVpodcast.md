@@ -2,6 +2,8 @@
 layout: post
 title: De la Red AvPodcast
 ---
+[AVPodcast]({{ site.baseurl }}/images/logo-avpodcast-red-de-podcasting.png
+
 Como muchos saben, pertenezco a la red de podcasting [AVPodcast](https://avpodcast.net/). 
 En ella encuentro el apoyo y los compañeros perfectos para que el programa crezca.
 
