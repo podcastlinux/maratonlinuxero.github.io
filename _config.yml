@@ -78,6 +78,20 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
+# Podcast Feed Settings
+podcast_url: https://podcastlinux.github.io
+podcast_album_art: https://podcastlinux.github.io/Podcast-Linux-logo.jpg
+podcast_title: Podcast Linux
+podcast_owner: Juan Febles
+podcast_email: podcastlinux@gmail.com
+podcast_category: Technology
+podcast_subcategory_one: Linux
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Juan Febles
+podcast_description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
+podcast_summary: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
+podcast_subtitle: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. Un podcast de Juan Febles para AVpodcast.
 
 # Exclude these files from your production _site
 exclude:
