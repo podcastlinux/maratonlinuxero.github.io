@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¡¡Trasteando!!
+date: 2017-04-27
 ---
 
 Aquí me hallo en GitHub, trasteando y viendo las posibilidades de utilizar varios servicios libres para crear contenido multimedia.
