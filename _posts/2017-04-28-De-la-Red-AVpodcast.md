@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De la Red AvPodcast
+date: 2017-04-28
 ---
 ![AVPodcast]({{ site.baseurl }}/images/logo-avpodcast-red-de-podcasting.png)
 
