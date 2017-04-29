@@ -3,6 +3,7 @@ layout: post
 title: Do it yourselft
 date: 2017-04-29
 ---
+
 ![Do it]({{ site.baseurl }}/images/diy-617763_1280.jpg)
 
 ¿Porqué algunos somos tan cabezones?
