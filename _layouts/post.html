@@ -9,7 +9,7 @@ layout: default
   </div>
 
   <div class="date">
-    Fecha: {{ page.date | date_es  }}
+    Fecha: {{ page.date | date: "%m/%d/%Y"  }}
   </div>
 
   {% include disqus.html %}
