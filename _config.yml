@@ -80,7 +80,7 @@ gems:
   
 # Podcast Feed Settings
 podcast_url: https://podcastlinux.github.io
-podcast_album_art: https://podcastlinux.github.io/Podcast-Linux-logo.jpg
+podcast_album_art: https://podcastlinux.github.io/images/linuxexpress.png
 podcast_title: Linux Express, de Podcast Linux.
 podcast_owner: Juan Febles
 podcast_email: podcastlinux@gmail.com
