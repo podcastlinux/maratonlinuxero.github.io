@@ -4,7 +4,7 @@ title: "#02 Linux Express"
 date: 2016-12-15
 categories: LinuxExpress
 image: images/linuxexpress.png
-podcast_link: https://github.com/podcastlinux/podcastlinux.github.io/blob/master/Linux-Express/%2302%20Podcast%20Linux%20Express.mp3
+podcast_link: https://github.com/podcastlinux/Linux-Express/%2302%20Podcast%20Linux%20Express.mp3
 tags: [audio, telegram, Linux Express,]
 comments: true
 ---
