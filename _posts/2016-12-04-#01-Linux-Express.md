@@ -3,7 +3,7 @@ layout: post
 title: "#01 Linux Express"
 date: 2016-12-04
 categories: LinuxExpress
-image: img/linuxexpress.png
+image: images/linuxexpress.png
 podcast_link: https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2301%20Podcast%20Linux%20Express.mp3
 tags: [audio, telegram, Linux Express,]
 comments: true
