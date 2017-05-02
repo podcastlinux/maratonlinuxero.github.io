@@ -6,7 +6,7 @@
 name: Podcast Linux
 
 # Short bio or description (displayed in the header)
-description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. 
+description: El podcast del mundo GNU/Linux para usuarios domÄĹ sticos de escritorio. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/23723653?v=3&u=9f85798f695e3d2a2b2f86deb0159c0d9e48e28d&s=400
@@ -77,6 +77,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  
+  future: false
   
 # Podcast Feed Settings
 podcast_url: https://podcastlinux.github.io
