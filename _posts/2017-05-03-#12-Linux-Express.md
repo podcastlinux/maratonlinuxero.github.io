@@ -13,7 +13,6 @@ comments: true
   <source src="https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2312%20Podcast%20Linux%20Express.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
 Aquí tienes la duodécima entrega de Linux Express el podcast creado de los audios de Telegram para que estés informado de lo que se cuece en Podcast Linux.
 
 Hoy quiero compartir contigo estos temas:
@@ -24,7 +23,7 @@ Hoy quiero compartir contigo estos temas:
 + [Feed Linux Express](https://podcastlinux.github.io/Linux-Express/feed)
 + Rondando un nuevo Especial Podcast Linux
 
-![#12]({{ site.baseurl }}/images/#12LinuxExpress.png)
+![#12]({{ site.baseurl }}/images/%2312LinuxExpress.png)
 
 Recuerda que puedes **contactar** conmigo de las siguientes formas:
 
