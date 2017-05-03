@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#12 Linux Express"
+title: "#12 Linux Express "
 date: 2017-05-03
 categories: LinuxExpress
 image: images/linuxexpress.png
