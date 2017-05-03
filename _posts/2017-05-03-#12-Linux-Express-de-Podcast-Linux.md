@@ -22,7 +22,7 @@ Hoy quiero compartir contigo estos temas:
 + [Feed Linux Express](https://podcastlinux.github.io/Linux-Express/feed)
 + Rondando un nuevo Especial Podcast Linux
 
-![#12]({{ site.baseurl }}/images/%2312LinuxExpress.png)
+![#12]({{ site.baseurl }}/images/12LinuxExpress.png)
 
 Recuerda que puedes **contactar** conmigo de las siguientes formas:
 
