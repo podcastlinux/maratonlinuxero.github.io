@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#12 Linux Express de Podcast Linux"
+title: "#12 Linux Express"
 date: 2017-05-03
 categories: LinuxExpress
 image: images/linuxexpress.png
