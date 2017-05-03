@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "#12 Linux Express"
-date: 2017-05-03 05:00:00
+date: 2017-05-03
 categories: LinuxExpress
 image: images/linuxexpress.png
 podcast_link: https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2312%20Podcast%20Linux%20Express.mp3
