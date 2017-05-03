@@ -88,9 +88,9 @@ podcast_category: Technology
 podcast_subcategory_one: Linux
 podcast_explicit: "no"
 podcast_author: Juan Febles
-podcast_description: Los audios express de Podcast Linux ya tienen feed.
-podcast_summary: Los audios express de Podcast Linux ya tienen feed.
-podcast_subtitle: Los audios express de Podcast Linux ya tienen feed.
+podcast_description: Los audios Express de Podcast Linux ya tienen feed.
+podcast_summary: Los audios Express de Podcast Linux ya tienen feed.
+podcast_subtitle: Los audios Express de Podcast Linux ya tienen feed.
 
 # Exclude these files from your production _site
 exclude:
