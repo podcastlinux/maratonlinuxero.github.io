@@ -78,8 +78,6 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
-future: false
-  
 # Podcast Feed Settings
 podcast_url: https://podcastlinux.github.io
 podcast_album_art: /images/linuxexpress.png
