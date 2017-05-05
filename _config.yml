@@ -6,7 +6,7 @@
 name: Podcast Linux
 
 # Short bio or description (displayed in the header)
-description: El podcast del mundo GNU/Linux para usuarios domÄĹ sticos de escritorio. 
+description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/23723653?v=3&u=9f85798f695e3d2a2b2f86deb0159c0d9e48e28d&s=400
@@ -78,8 +78,6 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
-future: false
-  
 # Podcast Feed Settings
 podcast_url: https://podcastlinux.github.io
 podcast_album_art: /images/linuxexpress.png
@@ -90,9 +88,9 @@ podcast_category: Technology
 podcast_subcategory_one: Linux
 podcast_explicit: "no"
 podcast_author: Juan Febles
-podcast_description: Los audios express de Podcast Linux ya tienen feed.
-podcast_summary: Los audios express de Podcast Linux ya tienen feed.
-podcast_subtitle: Los audios express de Podcast Linux ya tienen feed.
+podcast_description: Los audios Express de Podcast Linux ya tienen feed.
+podcast_summary: Los audios Express de Podcast Linux ya tienen feed.
+podcast_subtitle: Los audios Express de Podcast Linux ya tienen feed.
 
 # Exclude these files from your production _site
 exclude:
