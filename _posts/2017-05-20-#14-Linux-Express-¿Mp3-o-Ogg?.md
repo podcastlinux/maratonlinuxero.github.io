@@ -15,6 +15,8 @@ Your browser does not support the audio element.
 Me acabo de levantar con una idea. ¿Y si produzco mis episodios en formato libre? El mp3 no pasa por sus mejores momentos 
 y creo que va siendo hora de darle una oportunidad al .ogg.
 
+![#14]({{ site.baseurl }}/images/14LinuxExpress.png)
+
 Si no puedes reproducir este episodio es que es incompatible en tu podcastcher. Tanto si sí o si no, te agradecería tu feedback 
 en Twitter <https://twitter.com/podcastlinux>
 
