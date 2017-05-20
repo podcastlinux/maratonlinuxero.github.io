@@ -32,4 +32,3 @@ Recuerda que puedes **contactar** conmigo de las siguientes formas:
 + Youtube: <https://www.youtube.com/PodcastLinux>
 + Feed Podcast Linux: <https://feedpress.me/podcastlinux>
 + Feed Linux Express (Audios Telegram): <https://podcastlinux.github.io/Linux-Express/feed>
-
