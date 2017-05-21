@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#14 Linux Express ¿Mp3 o Ogg? y 2"
+title: "#15 Linux Express ¿Mp3 o Ogg? y 2"
 date: 2017-05-21
 categories: LinuxExpress
 image: images/linuxexpress.png
