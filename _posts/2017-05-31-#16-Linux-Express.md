@@ -22,7 +22,7 @@ Hoy quiero compartir contigo estos temas:
 + Podcast Linux cumple un año el 1 de julio
 
 Aquí tienes el vídeo de [Slimbook One](https://slimbook.es/one-minipc-potente):
-<iframe width="480" height="360" src="http://www.youtube.com/embed/R5AoSOg84AA" frameborder="0"> </iframe>
+{% include youtubePlayer.html id="R5AoSOg84AA" %}
 
 
 Recuerda que puedes **contactar** conmigo de las siguientes formas:
