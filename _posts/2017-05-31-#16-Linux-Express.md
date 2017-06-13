@@ -10,7 +10,7 @@ comments: true
 ---
 
 Otro Linux Express para que estés informado del día a día de Podcast Linux.
-![#16](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/images/16LinuxExpress.png)
+![#16](https://podcastlinux.github.io/images/16LinuxExpress.png)
 
 <audio controls>
   <source src="https://github.com/podcastlinux/podcastlinux.github.io/raw/master/Linux-Express/%2316%20Podcast%20Linux%20Express.mp3" type="audio/mpeg">
