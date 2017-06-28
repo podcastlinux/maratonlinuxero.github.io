@@ -20,7 +20,7 @@ Repasamos lo acontecido en estas semanas:
 
 + [Episodio #27 Especial Slimbook One](http://avpodcast.net/podcastlinux/slimbookone)
 + Especial 1º Aniversario Podcast Linux 1 de julio
-+ Próximo episodio Linux Connexion con Alejandro López[Slimbook](https://slimbook.es)
++ Próximo episodio Linux Connexion con Alejandro López [Slimbook](https://slimbook.es)
 + [Premios Asociación Podcast](http://asociacionpodcast.us1.list-manage2.com/subscribe?u=976ab30aaa02edad08f32ed62&id=62ad6d3953) y [Maratón Jpod](http://jpod.es/maraton)
 + Aterrizan los Chromebooks en Educación
 
