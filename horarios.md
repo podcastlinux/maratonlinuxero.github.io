@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maratón Linuxero en vivo
+title: Horario del Maratón Linuxero
 permalink: /horarios/
 ---
 
