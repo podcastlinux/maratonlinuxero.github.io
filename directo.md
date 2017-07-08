@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directo
+title: Maratón Linuxero en vivo
 permalink: /directo/
 ---
 
