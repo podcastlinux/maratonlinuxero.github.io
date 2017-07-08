@@ -4,7 +4,7 @@ title: Noticias
 permalink: /noticias/
 ---
 
-En forma de blog añadiremos las noticias que vayan surgiendo previo a la Maratón.
+En forma de blog añadiremos las noticias que vayan surgiendo previas a la Maratón.
 
 <div class="posts">
   {% for post in site.posts %}
