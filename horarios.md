@@ -7,9 +7,13 @@ permalink: /horarios/
 Parrilla horaria con podcasters y temática.
 El horario es UTC+2 (Horario peninsular español)
 
-* 15:00 Bienvenida y charla introductoria: Qué es el Maratón Linuxero.
-* 16:00 Podcaster 1: Temática 1
-* 17:00 Podcaster 2: Temática 2
+Hora | Podcaster | Temática
+------------ | ------------- | -------------
+15:00-16:00 | Todos | Saludo, Bienvenida, motivo y funcionamiento de la Maratón
+16:00-17:00 | Podcaster o Podcasters 1 | Temática 1
+17:00-18:00 | Podcaster o Podcasters 2 | Temática 2
+18:00-19:00 | Podcaster o Podcasters 3 | Temática 3
+??:00-??:00 | Todos | Análisis, despedida y cierre
 
-Si quieres participar no dudes en ponerte en [contacto](https://maratonlinuxero.github.io/about/) y colaborar con el proyecto.
+Si quieres participar, no dudes en ponerte en [contacto](https://maratonlinuxero.github.io/about/) y colaborar en el proyecto.
 
