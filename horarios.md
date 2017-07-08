@@ -14,6 +14,7 @@ Hora         | Podcaster                 | Temática
 16:00-17:00  | Podcaster o Podcasters 1  | Temática 1
 17:00-18:00  | Podcaster o Podcasters 2  | Temática 2
 18:00-19:00  | Podcaster o Podcasters 3  | Temática 3
+??:00-??:00  | Podcaster o Podcasters ?  | Temática ?
 ??:00-??:00  | Todos                     | Análisis, despedida y cierre
 
 
