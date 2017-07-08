@@ -8,7 +8,9 @@ Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a tarvés de 
 
 <form method="POST" action="http://formspree.io/maratonlinuxero@gmail.com">
   <input type="email" name="email" placeholder="Tu email">
+  
   <textarea name="message" placeholder="Mensaje"></textarea>
+  
   <button type="submit">ENVIAR</button>
 </form>
 
