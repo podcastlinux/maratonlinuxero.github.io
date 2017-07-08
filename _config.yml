@@ -80,7 +80,7 @@ gems:
   
 # Podcast Feed Settings
 podcast_url: https://maratonlinuxero.github.io
-podcast_album_art: /images/linuxexpress.png
+podcast_album_art: /images/logoMaratonLinuxero.png
 podcast_title: Sesiones del I Maratón Linuxero.
 podcast_owner: Podcasteros linuxeros
 podcast_email: maratonlinuxero@gmail.com
