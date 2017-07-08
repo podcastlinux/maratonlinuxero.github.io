@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maratón Linuxero en vivo
+title: Noticias
 permalink: /Noticias/
 ---
 
