@@ -7,7 +7,7 @@ permalink: /horarios/
 Parrilla horaria con podcasters y temática.
 El horario es UTC+2 (Horario peninsular español)
 
-Hora | Podcaster                         | Temática
+Hora         | Podcaster                 | Temática
 ------------ | -------------             | -------------
 15:00-16:00  | Todos                     | Saludo, Bienvenida, motivo y funcionamiento de la Maratón
 16:00-17:00  | Podcaster o Podcasters 1  | Temática 1
