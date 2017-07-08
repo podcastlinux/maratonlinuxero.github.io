@@ -4,13 +4,11 @@ title: Métodos de contacto
 permalink: /about/
 ---
 
-Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a tarvés de este formulario:
+Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a través de este formulario:
 
 <form method="POST" action="http://formspree.io/maratonlinuxero@gmail.com">
   <input type="email" name="email" placeholder="Tu email">
-  
   <textarea name="message" placeholder="Mensaje"></textarea>
-  
   <button type="submit">ENVIAR</button>
 </form>
 
