@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Podcast Linux
+name: Maratón Linuxero
 
 # Short bio or description (displayed in the header)
-description: El podcast del mundo GNU/Linux para usuarios domésticos de escritorio. 
+description: Un proyecto de directos podcasteros a través de software libre. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/23723653?v=3&u=9f85798f695e3d2a2b2f86deb0159c0d9e48e28d&s=400
@@ -17,32 +17,32 @@ avatar: https://avatars0.githubusercontent.com/u/23723653?v=3&u=9f85798f695e3d2a
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: podcastlinux@avpodcast.net
+  email: maratonlinuxero@gmail.com
   facebook:
   flickr:
-  github: podcastlinux
+  github: maratonlinuxero
   instagram:
   linkedin:
   pinterest:
-  rss: https://feedpress.me/podcastlinux
+  rss: 
   twitter: podcastlinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCQq5zDbICax1W6UiNf71RoA
-  feed: https://feedpress.me/podcastlinux
+  youtube: 
+  feed: 
   googleplus: # anything in your profile username that comes after plus.google.com/
-  telegram: podcastlinux
+  telegram: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: podcastlinux
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-98289803-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://podcastlinux.github.io
+url: http://maratonlinuxero.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -79,18 +79,18 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
 # Podcast Feed Settings
-podcast_url: https://podcastlinux.github.io
+podcast_url: https://maratonlinuxero.github.io
 podcast_album_art: /images/linuxexpress.png
-podcast_title: Linux Express, de Podcast Linux.
-podcast_owner: Juan Febles
-podcast_email: podcastlinux@gmail.com
+podcast_title: Sesiones del I Maratón Linuxero.
+podcast_owner: Podcasteros linuxeros
+podcast_email: maratonlinuxero@gmail.com
 podcast_category: Technology
 podcast_subcategory_one: Linux
 podcast_explicit: "no"
-podcast_author: Juan Febles
-podcast_description: Los audios Express de Podcast Linux ya tienen feed.
-podcast_summary: Los audios Express de Podcast Linux ya tienen feed.
-podcast_subtitle: Los audios Express de Podcast Linux ya tienen feed.
+podcast_author: Podcasteros Linuxeros
+podcast_description: Los audios del I maratón Linuxero.
+podcast_summary: Los audios del I maratón Linuxero.
+podcast_subtitle: Los audios del I maratón Linuxero.
 
 # Exclude these files from your production _site
 exclude:
