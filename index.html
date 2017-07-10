@@ -17,5 +17,7 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Sigue leyendo...</a>
     </article>
-  {% endfor %}
+  
+   {% include disqus.html %}
+   {% endfor %}
 </div>
