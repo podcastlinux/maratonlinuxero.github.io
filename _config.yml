@@ -24,13 +24,13 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: 
+  rss:
   twitter: maratonlinuxero
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: 
-  feed: 
+  feed: http://maratonlinuxero.github.io/feed.xml
   googleplus: # anything in your profile username that comes after plus.google.com/
-  telegram: 
+  telegram: maratonlinuxero
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
