@@ -88,9 +88,9 @@ podcast_category: Technology
 podcast_subcategory_one: Linux
 podcast_explicit: "no"
 podcast_author: Podcasteros Linuxeros
-podcast_description: Los audios del I maratón Linuxero.
-podcast_summary: Los audios del I maratón Linuxero.
-podcast_subtitle: Los audios del I maratón Linuxero.
+podcast_description: Los audios del I Maratón Linuxero.
+podcast_summary: Los audios del I Maratón Linuxero.
+podcast_subtitle: Los audios del I Maratón Linuxero.
 
 # Exclude these files from your production _site
 exclude:
