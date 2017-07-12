@@ -10,7 +10,7 @@ Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a través de:
   <li>Hashtag: <a href="https://twitter.com/hashtag/Marat%C3%B3nLinuxero">#MaratónLinuxero</a></li>
  	<li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li>
  	<li>Web: <a href="http://maratonlinuxero.github.io/">maratonlinuxero.github.io</a></li>
-  <li>Grupo de Telegram: <a href=" 	<li>Web: <a href="http://t.me/maratonlinuxero">@maratonlinuxero</a></li>
+  <li>Grupo de Telegram: <a href="http://t.me/maratonlinuxero">@maratonlinuxero</a></li>
 
 </ul>
 
