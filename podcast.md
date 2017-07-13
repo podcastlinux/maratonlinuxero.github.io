@@ -4,7 +4,8 @@ title: Podcast del Maratón Linuxero
 permalink: /podcast/
 ---
 
-¿Te perdiste un directo? ¡No pasa nada! Recogeremos todos los momentos y los pondremos a disposición de la comunidad en forma de podcast.
+¿Te perdiste un directo? ¡No pasa nada!  
+Recogeremos todos los momentos y los pondremos a disposición de la comunidad en forma de podcast.
 El feed está creado desde GitHub: <http://maratonlinuxero.github.io/feed.xml>
 
 
