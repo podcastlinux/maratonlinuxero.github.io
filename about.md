@@ -17,5 +17,5 @@ Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a través de:
 
 </ul>
 
-No dudes en colaborar en el Maratón Linuxero. ¡Apúntate y participa!
+**No dudes en colaborar en el Maratón Linuxero. ¡Apúntate y participa!**
 
