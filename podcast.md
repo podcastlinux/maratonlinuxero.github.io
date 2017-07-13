@@ -13,7 +13,7 @@ El feed está creado desde GitHub: <http://maratonlinuxero.github.io/feed.xml>
   {% for post in site.categories.Podcast %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
       <h5><div class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</div></h5>
 
       <div class="entry">
