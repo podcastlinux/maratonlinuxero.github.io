@@ -25,13 +25,13 @@ footer-links:
   linkedin:
   pinterest:
   rss: http://maratonlinuxero.github.io/feed.xml
+  archiveorg: maratonlinuxero
   twitter: maratonlinuxero
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCqFf7ygeietihuh5GSEj3oQ
   feed: http://maratonlinuxero.github.io/feed.xml
   googleplus: # anything in your profile username that comes after plus.google.com/
   telegram: maratonlinuxero
-  archiveorg: maratonlinuxero
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
