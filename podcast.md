@@ -8,6 +8,8 @@ permalink: /podcast/
 El feed está creado desde GitHub: <http://maratonlinuxero.github.io/feed.xml>
 
 Episodios:
-{% for post in site.categories.Podcast %}
- + [{{ post.title }}]({{ page.url }})
+
+{% for post in site.categories[Podcast] %}
+    <li>{{ post.title }}</li>
 {% endfor %}
+
