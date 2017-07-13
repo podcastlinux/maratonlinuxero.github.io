@@ -9,7 +9,7 @@ El feed está creado desde GitHub: <http://maratonlinuxero.github.io/feed.xml>
 
 Episodios:
 
-{% for post in site.categories[Podcast] %}
+{% for post in site.categories.Podcast %}
     <li>{{ post.title }}</li>
 {% endfor %}
 
