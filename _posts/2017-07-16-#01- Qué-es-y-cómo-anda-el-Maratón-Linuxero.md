@@ -8,7 +8,7 @@ podcast_link: https://ia601503.us.archive.org/8/items/01QuEsYCCmoAndaElMaratanLi
 tags: [audio, podcast, pruebas,]
 comments: true
 ---
-Con esta emisión pretendemos dar respuesta a varios frentes abiertos. 
+Con esta emisión pretendemos dar respuesta a varios frentes abiertos.  
 Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo hemos intentado con Mumble y no hemos conseguido buenos resultados.
 
 A través de Jit.si mejora y facilita mucho, pero sus servidores públicos no permiten más de 1 hora de emisión hacia Youtube, que por su audiencia y chat en vivo, la vemos como la plataforma de emisión adecuada.
@@ -21,7 +21,9 @@ No dudes en ponerte en contacto con nosotros si deseas colaborar de cualquier ma
 
 Para ello, lo más directo es ponerte en contacto a través del grupo de Telegram para este evento: <https:/t.me/maratonlinuxero>
 
-Aquí tienes la emisión en Youtube: {% include youtubePlayer.html id="xx87M-JDwVs" %}
+Aquí tienes la emisión en Youtube:
+
+{% include youtubePlayer.html id="xx87M-JDwVs" %}
 
 Y aquí el audio extraído:
 
