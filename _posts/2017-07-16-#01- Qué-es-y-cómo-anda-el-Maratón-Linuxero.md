@@ -13,7 +13,7 @@ Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo he
 
 A través de Jit.si mejora y facilita mucho, pero sus servidores públicos no permiten más de 1 hora de emisión hacia Youtube, que por su audiencia y chat en vivo, la vemos como la plataforma de emisión adecuada.
 
-Lo siguiente ha sido utilizar OBS Studio como forma de conectar el audio de Jit.si hacia Youtube. Con esta emisión de 2 horas y media y a falta de pulir algunos contratiempos más durante la emisión, vemos que esta fórmula va ganando frente a otras.
+Lo siguiente ha sido utilizar OBS Studio como forma de conectar el audio de Jit.si hacia Youtube. Con esta emisión de 2 horas y media y a falta de pulir algunos contratiempos más durante el directo, vemos que esta fórmula va ganando frente a otras.
 
 Comentamos nuestras dudas y sugerencias y seguimos en marcha para que el 3 de septiembre a las 15:00 horas horario español, todo esté perfecto.
 
