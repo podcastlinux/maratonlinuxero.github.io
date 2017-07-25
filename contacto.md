@@ -16,7 +16,7 @@ Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a través de:
   <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">Maratón Linuxero</a></li>
 </ul>
 
-O escribiéndonos directamente en nuestro formulario de contacto:
+O escribiéndonos directamente en nuestro <strong>formulario de contacto:<strong>
 
 <form id="contact-form" method="post" action="https://formspree.io/maratonlinuxero@gmail.com">
 
