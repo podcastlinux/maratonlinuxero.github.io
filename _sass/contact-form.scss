@@ -1,0 +1,47 @@
+#contact-form {
+  margin: 10px 0 20px;
+  padding: 25px;
+  border: 1px solid black;
+
+  .form-group{
+    margin-bottom: 20px;
+  }
+
+  .form-label{
+    font-variant: small-caps;
+    font-size: 0.9em;
+  }
+
+  .form-field>* {
+    width: 100%;
+    border: 1px solid black;
+    font-size: 0.8em;
+    padding: 5px;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  textarea {
+    height: 150px;
+    resize: none;
+  }
+
+  p {
+    margin: 0;
+    text-align: center;
+  }
+
+  input[type=submit]{
+    background-color: aliceblue;
+    padding: 10px 30px;
+    font-variant: small-caps;
+    border: 1px solid black;
+
+      &:hover {
+        cursor: pointer;
+        background-color: lavender;
+      }
+  }
+}
