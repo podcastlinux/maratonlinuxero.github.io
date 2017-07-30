@@ -1,3 +1,5 @@
+{% assign countdown = site.data.countdown %}
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,7 +45,12 @@
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
+
+            {% if countdown.activo %}
+              <div id="countdown" style="margin-top:5px;"></div>
+            {% endif %}
           </div>
+
 
           <nav>
             <a href="{{ site.baseurl }}/">Inicio</a>
@@ -70,5 +77,27 @@
     </div>
 
     {% include analytics.html %}
+
+    {% if countdown.activo %}
+
+      <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+      <script src="/js/jquery.countdown-2.1.0/jquery.countdown.min.js" type="text/javascript"></script>
+
+      <script type="text/javascript">
+        var balance = {{ countdown.horario_verano }} ? '+2:00' : '+1:00';
+        var fecha_y_hora = '{{ countdown.fecha_y_hora }}'+balance;
+
+        $('#countdown').countdown(fecha_y_hora, { elapse: true })
+          .on('update.countdown', function(event){
+            if (!event.elapsed){
+              $(this).html(event.strftime('{{ countdown.formato }}'));
+            }
+            else {
+              $(this).html('{{ countdown.mensaje }}');
+            }
+          });
+      </script>
+
+    {% endif %}
   </body>
 </html>
