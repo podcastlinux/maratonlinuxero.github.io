@@ -6,7 +6,7 @@ activo: true
 horario_verano: true
 
 # Formato cuenta atrás
-formato: Quedan %-D día%!D, %-H h y %-M min
+formato: Quedan %D días, %H horas y %M mins
 
 # Fecha y hora de inicio del evento
 fecha_y_hora: 2017-09-03 15:00
