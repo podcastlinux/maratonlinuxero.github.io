@@ -87,7 +87,7 @@
         var balance = {{ countdown.horario_verano }} ? '+2:00' : '+1:00';
         var fecha_y_hora = '{{ countdown.fecha_y_hora }}'+balance;
 
-        $('#countdown').countdown(fecha_y_hora, { elapse: true })
+        $('#countdown').countdown("{{ countdown.fecha_y_hora }}", { elapse: true })
           .on('update.countdown', function(event){
             if (!event.elapsed){
               $(this).html(event.strftime('{{ countdown.formato }}'));
