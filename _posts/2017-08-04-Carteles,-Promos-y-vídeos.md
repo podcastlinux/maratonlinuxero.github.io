@@ -2,7 +2,7 @@
 layout: post
 title: "Carteles, promos y vídeos"
 date: 2017-07-30
-categories: Noticias
+categories:
 tags: [promo, cartel, vídeo,]
 comments: true
 ---
@@ -24,6 +24,7 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero1.mp3" type="audio/mpeg">
 </audio>
+
 
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
