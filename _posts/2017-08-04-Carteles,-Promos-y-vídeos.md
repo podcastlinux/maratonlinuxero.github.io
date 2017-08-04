@@ -32,9 +32,9 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 **Vídeos:** A partir de los audios y los carteles hemos realizado unos sencillos vídeos con esta webapp open source. <https://audiogram.sparemin.com/audiogram/>
 
-<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" width="320" height="200" controls preload></video>
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" width="540" height="480" controls preload></video>
 
-<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="320" height="200" controls preload></video>
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>
 
 
 Si eres **diseñador y/o artista** también puedes sumarte al evento con otros carteles, promos, vídeos, temas musicales.... Tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <https://t.me/maratonlinuxero>
