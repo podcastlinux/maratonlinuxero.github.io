@@ -19,7 +19,9 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 ![#Cartel4](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero4.png)
 
-**Promos de audio:** (Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo.
+
+**Promos de audio:** (Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo.)
+
 
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero1.mp3" type="audio/mpeg">
@@ -30,9 +32,11 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
 </audio>
 
+
 **Vídeos:** A partir de los audios y los carteles hemos realizado unos sencillos vídeos con esta webapp open source. <https://audiogram.sparemin.com/audiogram/>
 
 <video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" width="540" height="480" controls preload></video>
+
 
 <video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>
 
