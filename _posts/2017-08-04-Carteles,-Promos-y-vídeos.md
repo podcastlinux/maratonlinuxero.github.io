@@ -22,12 +22,12 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 **Promos de audio:** (Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo.)
 
-
+Promo 1: Estándar
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero1.mp3" type="audio/mpeg">
 </audio>
 
-
+Promo 2: Épica
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
 </audio>
@@ -40,6 +40,8 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 <video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>
 
+
+Puedes utilizar todas estas obras para difundir el Maratón Linuxero. 
 
 Si eres **diseñador y/o artista** también puedes sumarte al evento con otros carteles, promos, vídeos, temas musicales.... Tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <https://t.me/maratonlinuxero>
 
