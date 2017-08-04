@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carteles, promos y vídeos"
-date: 2017-07-30
+date: 2017-08-04
 categories:
 tags: [promo, cartel, vídeo,]
 comments: true
@@ -32,21 +32,10 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 **Vídeos:** A partir de los audios y los carteles hemos realizado unos sencillos vídeos con esta webapp open source. <https://audiogram.sparemin.com/audiogram/>
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+<audio controls>
+  <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" type="audio/mpeg">
+</audio>
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
 
 Si eres **diseñador y/o artista** también puedes sumarte al evento con otros carteles, promos, vídeos, temas musicales.... Tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <https://t.me/maratonlinuxero>
 
