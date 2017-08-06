@@ -77,27 +77,10 @@
     </div>
 
     {% include analytics.html %}
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 
     {% if countdown.activo %}
-
-      <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-      <script src="/js/jquery.countdown-2.1.0/jquery.countdown.min.js" type="text/javascript"></script>
-
-      <script type="text/javascript">
-        var balance = {{ countdown.horario_verano }} ? '+2:00' : '+1:00';
-        var fecha_y_hora = '{{ countdown.fecha_y_hora }}'+balance;
-
-        $('#countdown').countdown("{{ countdown.fecha_y_hora }}", { elapse: true })
-          .on('update.countdown', function(event){
-            if (!event.elapsed){
-              $(this).html(event.strftime('{{ countdown.formato }}'));
-            }
-            else {
-              $(this).html('{{ countdown.mensaje }}');
-            }
-          });
-      </script>
-
+      {% include countdown.html %}
     {% endif %}
   </body>
 </html>
