@@ -2,11 +2,8 @@
 # Desactivar la cuenta atrás asignando el valor false
 activo: true
 
-# ¿Horario de verano?
-horario_verano: true
-
 # Formato cuenta atrás
-formato: Quedan %D días, %H horas y %M mins
+formato: Quedan %-D día%!D, %-H hora%!H y %-M minuto%!M
 
 # Fecha y hora de inicio del evento
 fecha_y_hora: 2017-09-03 15:00

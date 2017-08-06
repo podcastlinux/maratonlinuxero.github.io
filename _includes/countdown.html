@@ -1,0 +1,17 @@
+<script src="/js/jquery.countdown-2.1.0/jquery.countdown.min.js" type="text/javascript"></script>
+<script src="/js/moment.min.js" type="text/javascript"></script>
+<script src="/js/moment-timezone-with-data.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  var fecha_y_hora = moment("{{ countdown.fecha_y_hora }}").tz("Europe/Madrid").toDate();
+
+  $('#countdown').countdown(fecha_y_hora, { elapse: true })
+    .on('update.countdown', function(event){
+      if (!event.elapsed){
+        $(this).html(event.strftime('{{ countdown.formato }}'));
+      }
+      else {
+        $(this).html('{{ countdown.mensaje }}');
+      }
+    });
+</script>
