@@ -4,7 +4,9 @@ title: Envíanos tu audio
 permalink: /deja-tu-audio/
 ---
 
-Si quieres, puedes enviarnos tu audio-mensaje grabándolo en el widget de aquí abajo:
+Si quieres, puedes enviarnos tu audio-mensaje grabándolo en el widget de aquí abajo.
+
+Los audios que nos envíeis los publicaremos durante el maratón. Puedes felicitar a los organizadores y colaboradores, contarnos anécdotas, desearnos mucha suerte... o cualquier cosa que nos quieras contar ;)
 
 <iframe src="https://www.speakpipe.com/widget/inline/yxq7g04nf2lgwbweidm5vtgppoxdzj0c" frameborder="0" width="100%" height="180px"></iframe>
 
