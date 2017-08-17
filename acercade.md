@@ -1,0 +1,3 @@
+<img src="/images/logoMaratonLinuxero.png" width="200" style="float: right; margin: 5%;">
+Maraton Linuxero es ...
+<br clear="all"/>
