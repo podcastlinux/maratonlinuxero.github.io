@@ -14,7 +14,7 @@ El horario es UTC+2 (Horario peninsular español)
 16:00-17:00  | Eduardo Collado           | 
 17:00-18:00  | Yoyo Fernández            | 
 18:00-19:00  | José GDF y DJ Mao Mix     | 
-19:00-20:00  | Kde España Podcast        | 
+19:00-20:00  | KDE España Podcast        | 
 20:00-21:00  | Ubuntu y otras hierbas    | 
 21:00-22:00  | Ugeek y Mosquetero Web    | 
 22:00-23:00  | Neoranger y Enderhe       | 
