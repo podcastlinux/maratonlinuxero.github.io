@@ -8,7 +8,7 @@ Parrilla horaria con podcasters y temática.
 El horario es UTC+2 (Horario peninsular español)
 
 
-Hora         | Podcaster                 | Temática
+**Hora       | Podcaster                 | Temática**
 ------------ | ------------------------- | ------------------------------------------------------------
 15:00-16:00  | Podcast Linux             | 
 16:00-17:00  | Eduardo Collado           | 
