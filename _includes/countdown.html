@@ -3,7 +3,8 @@
 <script src="/js/moment-timezone-with-data.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  var fecha_y_hora = moment("{{ countdown.fecha_y_hora }}").tz("Europe/Madrid").toDate();
+  var balance = (new Date()).getTimezoneOffset()/60;
+  var fecha_y_hora = moment("{{ countdown.fecha_y_hora }}").add(2 + balance, 'hours').toDate();
 
   $('#countdown').countdown(fecha_y_hora, { elapse: true })
     .on('update.countdown', function(event){
