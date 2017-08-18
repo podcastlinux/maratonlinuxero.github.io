@@ -11,7 +11,7 @@ Otro aspecto que queremos resaltar es la **colaboración de empresas Linuxeras e
 [Sorteos en el Maratón Linuxero](https://maratonlinuxero.github.io/Sorteos/)
 
 **La parrilla de directos** propuesta es la siguiente (a 2 semanas del evento añadiremos la temática de cada uno):  
-[Horario Directos](https://maratonlinuxero.github.io/Horarios/)
+[Horario Directos](https://maratonlinuxero.github.io/horarios/)
 
 Cada hora será conducida por uno o más divulgadores y/o podcasters de habla hispana ampliamente reconocidos por las comunidades GNU/Linux.
 
