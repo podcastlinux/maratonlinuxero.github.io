@@ -40,6 +40,10 @@ Promo 2: Épica
 
 <video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>
 
+Y Marta García ha elaborado este montaje con software libre: Synfig, PapagayoNG y kdenlive
+
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero.mp4" width="540" height="480" controls preload></video>
+
 
 Puedes utilizar todas estas obras para difundir el Maratón Linuxero. 
 
