@@ -9,7 +9,7 @@ comments: true
 Un aspecto muy importante del evento es su promoción y máxima difusión en la linuxfera.  
 Con ese fin hemos querido realizar de forma colaborativa carteles, promos de audio y vídeo para llegar al máximo número de personas.
 
-**Carteles:** (Agradecer a Salva Vivas el diseño de los 3 últimos carteles.)
+**Carteles:** (Agradecer a Juan Febles, Salva Vivas y Dan Bernal Tapia por el diseño de los carteles.)
 
 ![#Cartel1](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero.png)
 
@@ -18,6 +18,9 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 ![#Cartel3](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero3.png)
 
 ![#Cartel4](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero4.png)
+
+![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png)
+
 
 
 **Promos de audio:** (Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo.)
