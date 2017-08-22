@@ -9,7 +9,7 @@ comments: true
 Un aspecto muy importante del evento es su promoción y máxima difusión en la linuxfera.  
 Con ese fin hemos querido realizar de forma colaborativa carteles, promos de audio y vídeo para llegar al máximo número de personas.
 
-**Carteles:** (Agradecer a Juan Febles, Salva Vivas y Dan Bernal Tapia por el diseño de los carteles.)
+**Carteles:** Agradecer a Juan Febles, Salva Vivas y Dan Bernal Tapia por el diseño de los carteles.
 
 ![#Cartel1](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero.png)
 
@@ -21,9 +21,12 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 ![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png)
 
+**Walpapers:** Iñaki Pinto ha elaborado una gran cantidad, 188 en total, fondos de escritorios de muchísimas distros para animar los directos en Youtube.
 
+![#Wallpapers](https://maratonlinuxero.github.io/images/wallpapers.png)  
+Descárgalos todos [Aquí](https://archive.org/download/WallpaperDistros/Wallpaper_distros.zip)
 
-**Promos de audio:** (Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo.)
+**Promos de audio:** Agradecer a Mathias Tolosa por la edición, la locución y el guión de la primera promo, a Paco Estrada por la locución en las 2 promos y a Ricardo Ocell por el guión en la segunda promo
 
 Promo 1: Estándar
 <audio controls>
