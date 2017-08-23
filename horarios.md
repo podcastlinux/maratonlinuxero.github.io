@@ -21,5 +21,5 @@ El horario es UTC+2 (Horario peninsular español)
 23:00-00:00  | Paco Estrada              | Desarrollo de Gnome y KDE y LibreCon2017
 
 
-Si quieres participar, no dudes en ponerte en [contacto](https://maratonlinuxero.github.io/about/) y colaborar en el proyecto.
+Si quieres más información, no dudes en ponerte en [contacto](https://maratonlinuxero.github.io/about/) y colaborar si así lo deseas.
 
