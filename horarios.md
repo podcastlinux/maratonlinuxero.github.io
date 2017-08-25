@@ -4,7 +4,7 @@ title: Horario del Maratón Linuxero
 permalink: /horarios/
 ---
 ![#CartelDirectos](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)  
-__Cartel realizado por Dan Bernal Tapia__
+_Cartel realizado por **Dan Bernal Tapia**_
 
 Si quieres más información, no dudes en ponerte en [contacto](https://maratonlinuxero.github.io/contacto/) y colaborar si así lo deseas.
 
