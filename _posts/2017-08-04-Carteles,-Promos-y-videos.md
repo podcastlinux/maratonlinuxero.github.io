@@ -24,6 +24,7 @@ Obra realizada por Salva Vivas (CC BY-NC-SA)
 ![#Cartel4](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero4.png)  
 Obra realizada por Salva Vivas (CC BY-NC-SA)
 
+
 ![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png) 
 Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
 
