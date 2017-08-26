@@ -14,15 +14,21 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 ![#Cartel1](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero.png)  
 Obra realizada por Juan Febles (CC BY-NC-SA)
 
-![#Cartel2](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero2.png)
+![#Cartel2](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero2.png)  
+Obra realizada por Salva Vivas (CC BY-NC-SA)
 
-![#Cartel3](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero3.png)
 
-![#Cartel4](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero4.png)
+![#Cartel3](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero3.png)  
+Obra realizada por Salva Vivas (CC BY-NC-SA)
 
-![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png)
+![#Cartel4](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero4.png)  
+Obra realizada por Salva Vivas (CC BY-NC-SA)
 
-![#Cartel6](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)
+![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png) 
+Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
+
+![#Cartel6](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)  
+Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
 
 **Wallpapers:** Iñaki Pinto ha elaborado una gran cantidad, 188 en total, de fondos de escritorio de muchísimas distros para animar los directos en Youtube.
 
@@ -34,25 +40,29 @@ Descárgalos todos [Aquí](https://archive.org/download/WallpaperDistros/Wallpap
 Promo 1: Estándar
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero1.mp3" type="audio/mpeg">
-</audio>
+</audio>  
+Obra realizada por Mathias Tolosa (CC BY-NC-SA)
+
 
 Promo 2: Épica
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
-</audio>
-
+</audio>  
+Obra realizada por Mathias Tolosa (CC BY-NC-SA)
 
 **Vídeos:** A partir de los audios y los carteles hemos realizado unos sencillos vídeos con esta webapp open source. <https://audiogram.sparemin.com/audiogram/>
 
-<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" width="540" height="480" controls preload></video>
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero1.mp4" width="540" height="480" controls preload></video>  
+Obra realizada por Juan Febles (CC BY-NC-SA)
 
 
-<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero2.mp4" width="540" height="480" controls preload></video>  
+Obra realizada por Juan Febles (CC BY-NC-SA)
 
 Y Marta García ha elaborado este montaje con software libre: Synfig, PapagayoNG y kdenlive
 
-<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero.mp4" width="540" height="480" controls preload></video>
-
+<video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero.mp4" width="540" height="480" controls preload></video>  
+Obra realizada por Marta García (CC BY-NC-SA)
 
 Puedes utilizar todas estas obras para difundir el Maratón Linuxero. 
 
