@@ -12,7 +12,7 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 **Carteles:** Agradecer a Juan Febles, Salva Vivas y Dan Bernal Tapia por el diseño de los carteles.
 
 ![#Cartel1](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero.png)  
-Obra realizada por Juan Febles licenciada Creative Commons Reconocimiento-NoComercial-CompartirIgual 
+#####Obra realizada por Juan Febles licenciada Creative Commons Reconocimiento-NoComercial-CompartirIgual 
 
 ![#Cartel2](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero2.png)
 
