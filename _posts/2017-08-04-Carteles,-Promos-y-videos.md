@@ -30,7 +30,7 @@ Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
 ![#Cartel6](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)  
 Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
 
-**Wallpapers:** Iñaki Pinto ha elaborado una gran cantidad, 188 en total, de fondos de escritorio de muchísimas distros para animar los directos en Youtube.
+**Wallpapers:** Iñaki Pinto ha recopilado una gran cantidad, 188 en total, de fondos de escritorio de muchísimas distros para animar los directos en Youtube.
 
 ![#Wallpapers](https://maratonlinuxero.github.io/images/wallpapers.png)  
 Descárgalos todos [Aquí](https://archive.org/download/WallpaperDistros/Wallpaper_distros.zip)
@@ -64,7 +64,7 @@ Y Marta García ha elaborado este montaje con software libre: Synfig, PapagayoNG
 <video src="https://maratonlinuxero.github.io/images/Promo%20Marat%C3%B3n%20Linuxero.mp4" width="540" height="480" controls preload></video>  
 Obra realizada por Marta García (CC BY-NC-SA)
 
-Puedes utilizar todas estas obras para difundir el Maratón Linuxero. 
+Puedes utilizar todas estas obras para difundir el Maratón Linuxero respetando su licencia (Creative Commons, Reconocimiento-NoComercial-CompartirIgual). 
 
 Si eres **diseñador y/o artista** también puedes sumarte al evento con otros carteles, promos, vídeos, temas musicales.... Tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <https://t.me/maratonlinuxero>
 
