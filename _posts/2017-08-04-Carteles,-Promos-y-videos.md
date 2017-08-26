@@ -41,13 +41,15 @@ Promo 1: Estándar
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero1.mp3" type="audio/mpeg">
 </audio>  
-Obra realizada por Mathias Tolosa (CC BY-NC-SA)
+Obra realizada por Mathias Tolosa (CC BY-NC-SA)  
+Música utilizada: ADDICT SOUND - Way to Success (2016) <http://jamen.do/t/1334807>
 
 Promo 2: Épica
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
 </audio>  
-Obra realizada por Mathias Tolosa (CC BY-NC-SA)
+Obra realizada por Mathias Tolosa (CC BY-NC-SA)  
+Música utilizada: Ross Bugden - Olympus <https://youtu.be/BnmglWHoVrk> 
 
 **Vídeos:** A partir de los audios y los carteles hemos realizado unos sencillos vídeos con esta webapp open source. <https://audiogram.sparemin.com/audiogram/>
 
