@@ -1,0 +1,246 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<channel>
+<title>Sesiones del I Maratón Linuxero.</title>
+<atom:link href="http://maratonlinuxero.github.io/feed/podcast" rel="self" type="application/rss+xml"/>
+<link>http://maratonlinuxero.github.io</link>
+<description>Los audios del I Maratón Linuxero.</description>
+<lastBuildDate>Sat, 26 Aug 2017 07:53:14 +0000</lastBuildDate>
+<language>es-es</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>Los audios del I Maratón Linuxero.</itunes:summary>
+<itunes:author>Podcasteros Linuxeros</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png"/>
+<itunes:owner>
+<itunes:name>Podcasteros linuxeros</itunes:name>
+<itunes:email>maratonlinuxero@gmail.com</itunes:email>
+</itunes:owner>
+<managingEditor>maratonlinuxero@gmail.com (Podcasteros linuxeros)</managingEditor>
+<itunes:subtitle>Los audios del I Maratón Linuxero.</itunes:subtitle>
+<image>
+<title>Sesiones del I Maratón Linuxero.</title>
+<url>
+http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png
+</url>
+<link>http://maratonlinuxero.github.io</link>
+</image>
+<itunes:category text="Technology">
+<itunes:category text="Linux"/>
+</itunes:category>
+<item>
+<title>#03 Novedades en el Maratón Linuxero</title>
+<link>
+http://maratonlinuxero.github.io/03-Novedades-en-el-Marat%C3%B3n-Linuxero/
+</link>
+<comments>
+http://maratonlinuxero.github.io/03-Novedades-en-el-Marat%C3%B3n-Linuxero/#comments
+</comments>
+<pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<category>
+<![CDATA[ Podcast ]]>
+</category>
+<category>
+<![CDATA[ audio ]]>
+</category>
+<category>
+<![CDATA[ podcast ]]>
+</category>
+<category>
+<![CDATA[ pruebas ]]>
+</category>
+<guid isPermaLink="true">
+http://maratonlinuxero.github.io/03-Novedades-en-el-Marat%C3%B3n-Linuxero/
+</guid>
+<description>
+<![CDATA[
+En esta 4ª entrega de los previos al Maratón linuxero hemos querido realizar 3 horas de emisión para seguir avanzando en los ensayos. Como en el anterior episodio fuimos muchos los contertulios a la vez, unos 15, decidimos realizar varios directos divididos por temáticas y colaboradores, sin intertar pasarnos de...
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>En esta 4ª entrega de los previos al Maratón linuxero hemos querido realizar 3 horas de emisión para seguir avanzando en los ensayos. Como en el anterior episodio fuimos muchos los contertulios a la vez, unos 15, decidimos realizar varios directos divididos por temáticas y colaboradores, sin intertar pasarnos de más de 6.</p> <p>En la primera hora se habló de las novedades del Maratón Linuxero: Parrilla y podcasters hasta la fecha, con la gran noticia de sorteos por parte de PCUbuntu, Vant y Slimbook, empresas colaboradoras en el evento con la aportación de productos. Estuvieron en esa primera hora Eduardo Collado, Yoyo Fernández y Juan Febles.</p> <p>En la segunda sesión se compartió las experiencias con distribuciones GNU/Linux, explicando qué son y las ventajas para unos u otros propósitos. Estuvieron Baltolkien y Razlobo de KDE España junto con Richie, NeoRanger, Enderhe y Davidochobits.</p> <p>Por último se unieron Yoyo Fernández, Paco Estrada, José GDF, Dj Mao Mix Christian Jacobsen y Alejandro 000 para compartir sus conocimientos en la producción de audio en GNU/Linux.</p> <p>El último previo al directo será el domingo 27 de agosto a partir de las 15:00 horas con 4 directos de una hora cada uno. Anímate a participar en una de ellas solicitando tu participación en Telegram <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/xGhf-OQftyY" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801508.us.archive.org/27/items/03NovedadesEnElMaratnLinuxero/%2303%20Novedades%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</content:encoded>
+<enclosure url="https://ia801508.us.archive.org/27/items/03NovedadesEnElMaratnLinuxero/%2303%20Novedades%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" length="" type="audio/mpeg"/>
+<itunes:subtitle>
+<![CDATA[
+En esta 4ª entrega de los previos al Maratón linuxero hemos querido realizar 3 horas de emisión para seguir avanzando en los ensayos. Como en el anterior episodio fuimos muchos los contertulios a la vez, unos 15, decidimos realizar varios directos divididos por temáticas y colaboradores, sin intertar pasarnos de...
+]]>
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>En esta 4ª entrega de los previos al Maratón linuxero hemos querido realizar 3 horas de emisión para seguir avanzando en los ensayos. Como en el anterior episodio fuimos muchos los contertulios a la vez, unos 15, decidimos realizar varios directos divididos por temáticas y colaboradores, sin intertar pasarnos de más de 6.</p> <p>En la primera hora se habló de las novedades del Maratón Linuxero: Parrilla y podcasters hasta la fecha, con la gran noticia de sorteos por parte de PCUbuntu, Vant y Slimbook, empresas colaboradoras en el evento con la aportación de productos. Estuvieron en esa primera hora Eduardo Collado, Yoyo Fernández y Juan Febles.</p> <p>En la segunda sesión se compartió las experiencias con distribuciones GNU/Linux, explicando qué son y las ventajas para unos u otros propósitos. Estuvieron Baltolkien y Razlobo de KDE España junto con Richie, NeoRanger, Enderhe y Davidochobits.</p> <p>Por último se unieron Yoyo Fernández, Paco Estrada, José GDF, Dj Mao Mix Christian Jacobsen y Alejandro 000 para compartir sus conocimientos en la producción de audio en GNU/Linux.</p> <p>El último previo al directo será el domingo 27 de agosto a partir de las 15:00 horas con 4 directos de una hora cada uno. Anímate a participar en una de ellas solicitando tu participación en Telegram <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/xGhf-OQftyY" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801508.us.archive.org/27/items/03NovedadesEnElMaratnLinuxero/%2303%20Novedades%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</itunes:summary>
+<itunes:author>Podcasteros Linuxeros</itunes:author>
+<itunes:image href="http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration/>
+</item>
+<item>
+<title>#02 Avanzando en el Maratón Linuxero</title>
+<link>
+http://maratonlinuxero.github.io/02-Avanzando-en-el-Marat%C3%B3n-Linuxero/
+</link>
+<comments>
+http://maratonlinuxero.github.io/02-Avanzando-en-el-Marat%C3%B3n-Linuxero/#comments
+</comments>
+<pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<category>
+<![CDATA[ Podcast ]]>
+</category>
+<category>
+<![CDATA[ audio ]]>
+</category>
+<category>
+<![CDATA[ podcast ]]>
+</category>
+<category>
+<![CDATA[ pruebas ]]>
+</category>
+<guid isPermaLink="true">
+http://maratonlinuxero.github.io/02-Avanzando-en-el-Marat%C3%B3n-Linuxero/
+</guid>
+<description>
+<![CDATA[
+Tercer ensayo del Maratón linuxero donde reunimos hasta 15 colaboradores y podcasters en la sala Jitsi para comentar los avances en estas últimas 2 semanas y probar la emisión en Youtube y varias radios online.
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>Tercer ensayo del Maratón linuxero donde reunimos hasta 15 colaboradores y podcasters en la sala Jitsi para comentar los avances en estas últimas 2 semanas y probar la emisión en Youtube y varias radios online.</p> <p>Comentamos la instalación del servicio Jitsi en un propio servidor gracias a NeoRanger.</p> <p>Eduardo Collado nos informa de su experiencia con Jitsi y cómo quiere realizar su directo el domingo 3 de septiembre.</p> <p>Neoranger y Paco Estrada informa del proceso de instalación en este servidor.</p> <p>Ugeek explica la posibilidad de usar Github Pages para crear tu propio feed de tu podcast.</p> <p>Yoyo, Dj Mao Mix y Enderhe hablan de su emisión por Radio Online.</p> <p>Aportaciones de Richie, Elav, Marcos Costales, Dj Yoska y otros.</p> <p>Poco a poco vamos creando la parrilla de directos con muchos podcasters que se han sumado al proyecto. Si aún no lo has hecho, ponte en contacto con nosotros cuanto antes.</p> <p>Varios podcasters que estarán en el evento comentan posibles temas a tratar el domingo 3 de septiembre.</p> <p>Diseñadores y artistas también se están sumando al evento con carteles y promos. Y empresas afines al Software libre quieren colaborar con accesorios, camisetas y pegatinas.Recuerda que tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/dtyrImIRius" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801501.us.archive.org/13/items/02AvanzandoEnElMaratnLinuxero/%2302%20Avanzando%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</content:encoded>
+<enclosure url="https://ia801501.us.archive.org/13/items/02AvanzandoEnElMaratnLinuxero/%2302%20Avanzando%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" length="" type="audio/mpeg"/>
+<itunes:subtitle>
+<![CDATA[
+Tercer ensayo del Maratón linuxero donde reunimos hasta 15 colaboradores y podcasters en la sala Jitsi para comentar los avances en estas últimas 2 semanas y probar la emisión en Youtube y varias radios online.
+]]>
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Tercer ensayo del Maratón linuxero donde reunimos hasta 15 colaboradores y podcasters en la sala Jitsi para comentar los avances en estas últimas 2 semanas y probar la emisión en Youtube y varias radios online.</p> <p>Comentamos la instalación del servicio Jitsi en un propio servidor gracias a NeoRanger.</p> <p>Eduardo Collado nos informa de su experiencia con Jitsi y cómo quiere realizar su directo el domingo 3 de septiembre.</p> <p>Neoranger y Paco Estrada informa del proceso de instalación en este servidor.</p> <p>Ugeek explica la posibilidad de usar Github Pages para crear tu propio feed de tu podcast.</p> <p>Yoyo, Dj Mao Mix y Enderhe hablan de su emisión por Radio Online.</p> <p>Aportaciones de Richie, Elav, Marcos Costales, Dj Yoska y otros.</p> <p>Poco a poco vamos creando la parrilla de directos con muchos podcasters que se han sumado al proyecto. Si aún no lo has hecho, ponte en contacto con nosotros cuanto antes.</p> <p>Varios podcasters que estarán en el evento comentan posibles temas a tratar el domingo 3 de septiembre.</p> <p>Diseñadores y artistas también se están sumando al evento con carteles y promos. Y empresas afines al Software libre quieren colaborar con accesorios, camisetas y pegatinas.Recuerda que tú también puedes unirte. Ponte en contacto con nosotros a través de Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/dtyrImIRius" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801501.us.archive.org/13/items/02AvanzandoEnElMaratnLinuxero/%2302%20Avanzando%20en%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</itunes:summary>
+<itunes:author>Podcasteros Linuxeros</itunes:author>
+<itunes:image href="http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration/>
+</item>
+<item>
+<title>#01 Qué es y cómo anda el Maratón Linuxero</title>
+<link>
+http://maratonlinuxero.github.io/01-Qu%C3%A9-es-y-c%C3%B3mo-anda-el-Marat%C3%B3n-Linuxero/
+</link>
+<comments>
+http://maratonlinuxero.github.io/01-Qu%C3%A9-es-y-c%C3%B3mo-anda-el-Marat%C3%B3n-Linuxero/#comments
+</comments>
+<pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<category>
+<![CDATA[ Podcast ]]>
+</category>
+<category>
+<![CDATA[ audio ]]>
+</category>
+<category>
+<![CDATA[ podcast ]]>
+</category>
+<category>
+<![CDATA[ pruebas ]]>
+</category>
+<guid isPermaLink="true">
+http://maratonlinuxero.github.io/01-Qu%C3%A9-es-y-c%C3%B3mo-anda-el-Marat%C3%B3n-Linuxero/
+</guid>
+<description>
+<![CDATA[
+Con esta emisión pretendemos dar respuesta a varios frentes abiertos. Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo hemos intentado con Mumble y no hemos conseguido buenos resultados.
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>Con esta emisión pretendemos dar respuesta a varios frentes abiertos.<br /> Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo hemos intentado con Mumble y no hemos conseguido buenos resultados.</p> <p>A través de Jit.si mejora y facilita mucho, pero sus servidores públicos no permiten más de 1 hora de emisión hacia Youtube, que por su audiencia y chat en vivo, la vemos como la plataforma de emisión adecuada.</p> <p>Lo siguiente ha sido utilizar OBS Studio como forma de conectar el audio de Jit.si hacia Youtube. Con esta emisión de 2 horas y media y a falta de pulir algunos contratiempos más durante el directo, vemos que esta fórmula va ganando frente a otras.</p> <p>Comentamos nuestras dudas y sugerencias y seguimos en marcha para que el 3 de septiembre a las 15:00 horas horario español, todo esté perfecto.</p> <p>No dudes en ponerte en contacto con nosotros si deseas colaborar de cualquier manera.</p> <p>Para ello, lo más directo es ponerte en contacto a través del grupo de Telegram para este evento: <a href="https:/t.me/maratonlinuxero">https:/t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/xx87M-JDwVs" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia800808.us.archive.org/0/items/01QuEsYCCmoAndaElMaratanLinuxero/%2301%20Qu%C3%A9%20es%20y%20c%C3%B3mo%20anda%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</content:encoded>
+<enclosure url="https://ia800808.us.archive.org/0/items/01QuEsYCCmoAndaElMaratanLinuxero/%2301%20Qu%C3%A9%20es%20y%20c%C3%B3mo%20anda%20el%20Marat%C3%B3n%20Linuxero.ogg" length="" type="audio/mpeg"/>
+<itunes:subtitle>
+<![CDATA[
+Con esta emisión pretendemos dar respuesta a varios frentes abiertos. Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo hemos intentado con Mumble y no hemos conseguido buenos resultados.
+]]>
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p>Con esta emisión pretendemos dar respuesta a varios frentes abiertos.<br /> Lo primero, seguir realizando pruebas de emisiones en directo. Hasta ahora lo hemos intentado con Mumble y no hemos conseguido buenos resultados.</p> <p>A través de Jit.si mejora y facilita mucho, pero sus servidores públicos no permiten más de 1 hora de emisión hacia Youtube, que por su audiencia y chat en vivo, la vemos como la plataforma de emisión adecuada.</p> <p>Lo siguiente ha sido utilizar OBS Studio como forma de conectar el audio de Jit.si hacia Youtube. Con esta emisión de 2 horas y media y a falta de pulir algunos contratiempos más durante el directo, vemos que esta fórmula va ganando frente a otras.</p> <p>Comentamos nuestras dudas y sugerencias y seguimos en marcha para que el 3 de septiembre a las 15:00 horas horario español, todo esté perfecto.</p> <p>No dudes en ponerte en contacto con nosotros si deseas colaborar de cualquier manera.</p> <p>Para ello, lo más directo es ponerte en contacto a través del grupo de Telegram para este evento: <a href="https:/t.me/maratonlinuxero">https:/t.me/maratonlinuxero</a></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/xx87M-JDwVs" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia800808.us.archive.org/0/items/01QuEsYCCmoAndaElMaratanLinuxero/%2301%20Qu%C3%A9%20es%20y%20c%C3%B3mo%20anda%20el%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</itunes:summary>
+<itunes:author>Podcasteros Linuxeros</itunes:author>
+<itunes:image href="http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration/>
+</item>
+<item>
+<title>#00 3,2,1... probando</title>
+<link>
+http://maratonlinuxero.github.io/3,2,1...-Probando/
+</link>
+<comments>
+http://maratonlinuxero.github.io/3,2,1...-Probando/#comments
+</comments>
+<pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+<dc:creator>
+<![CDATA[ ]]>
+</dc:creator>
+<category>
+<![CDATA[ Podcast ]]>
+</category>
+<category>
+<![CDATA[ audio ]]>
+</category>
+<category>
+<![CDATA[ podcast ]]>
+</category>
+<category>
+<![CDATA[ pruebas ]]>
+</category>
+<guid isPermaLink="true">
+http://maratonlinuxero.github.io/3,2,1...-Probando/
+</guid>
+<description>
+<![CDATA[
+ATENCIÓN: El contenido de la grabación fue realizado a modo de prueba. Lo importante es el proceso de emisión conseguido. A falta de un mes y medio y con varios días de pruebas, emitimos para comprobar que todo sale correctamente y detectar posibles fallos y mejoras en el proceso.
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p><strong>ATENCIÓN: El contenido de la grabación fue realizado a modo de prueba. Lo importante es el proceso de emisión conseguido.</strong><br /> A falta de un mes y medio y con varios días de pruebas, emitimos para comprobar que todo sale correctamente y detectar posibles fallos y mejoras en el proceso. <img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero03.jpg" alt="OBSStudio" /></p> <p>Desde un principio valoramos varias alternativas de emisión.</p> <p>Empezamos con <a href="https://wiki.mumble.info/wiki/Main_Page">Mumble</a> + Butt, con sus pros y sus contras. Si bien ganábamos a la hora de grabar con calidad, las emisiones y la configuración de sonido eran algo complicadas, y en seguida buscamos otras formas.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero01.jpg" alt="Mumble" /></p> <p>La siguiente fue a través de plataformas de vídeollamada, encontrando una alternativa libre <a href="https://jitsi.org/jitsi-meet/">Jit.si</a>. Su facilidad de uso y calidad de audio más su emisión directa a Youtube, nos cautivó. Además, permite llamadas telefónicas para incorporarse a la sala. Se abre un mundo de posibilidades. Si bien funciona, su pero es que no se podía emitir más de una hora seguida hacia Youtube, por lo que… nuestro gozo en un pozo.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero02.jpg" alt="JitSi" /></p> <p>Para solucionar este problema en la duración, volvimos a utilizar una aplicación libre, <a href="https://obsproject.com/">OBS Studio</a>. Además de poder mezclar varios audios, con fuentes de imagen o vídeo, controlamos la emisión y en las primeras pruebas ya superamos las 2 horas sin ningún corte. Al final conseguimos emitir con calidad con: Jit.Si + OBS Studio + Youtube. Con ello también solucionamos las grabaciones, ya que Youtube te guarda la emisión una vez finalizada y de ahí podemos extraer sin problema el audio para el podcast.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero03.jpg" alt="OBSStudio" /></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/LlUSSWmkuE0" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801501.us.archive.org/17/items/00PrimerasPruebasDelMaratnLinuxero/%2300%20Primeras%20pruebas%20del%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</content:encoded>
+<enclosure url="https://ia801501.us.archive.org/17/items/00PrimerasPruebasDelMaratnLinuxero/%2300%20Primeras%20pruebas%20del%20Marat%C3%B3n%20Linuxero.ogg" length="" type="audio/mpeg"/>
+<itunes:subtitle>
+<![CDATA[
+ATENCIÓN: El contenido de la grabación fue realizado a modo de prueba. Lo importante es el proceso de emisión conseguido. A falta de un mes y medio y con varios días de pruebas, emitimos para comprobar que todo sale correctamente y detectar posibles fallos y mejoras en el proceso.
+]]>
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+<p><strong>ATENCIÓN: El contenido de la grabación fue realizado a modo de prueba. Lo importante es el proceso de emisión conseguido.</strong><br /> A falta de un mes y medio y con varios días de pruebas, emitimos para comprobar que todo sale correctamente y detectar posibles fallos y mejoras en el proceso. <img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero03.jpg" alt="OBSStudio" /></p> <p>Desde un principio valoramos varias alternativas de emisión.</p> <p>Empezamos con <a href="https://wiki.mumble.info/wiki/Main_Page">Mumble</a> + Butt, con sus pros y sus contras. Si bien ganábamos a la hora de grabar con calidad, las emisiones y la configuración de sonido eran algo complicadas, y en seguida buscamos otras formas.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero01.jpg" alt="Mumble" /></p> <p>La siguiente fue a través de plataformas de vídeollamada, encontrando una alternativa libre <a href="https://jitsi.org/jitsi-meet/">Jit.si</a>. Su facilidad de uso y calidad de audio más su emisión directa a Youtube, nos cautivó. Además, permite llamadas telefónicas para incorporarse a la sala. Se abre un mundo de posibilidades. Si bien funciona, su pero es que no se podía emitir más de una hora seguida hacia Youtube, por lo que… nuestro gozo en un pozo.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero02.jpg" alt="JitSi" /></p> <p>Para solucionar este problema en la duración, volvimos a utilizar una aplicación libre, <a href="https://obsproject.com/">OBS Studio</a>. Además de poder mezclar varios audios, con fuentes de imagen o vídeo, controlamos la emisión y en las primeras pruebas ya superamos las 2 horas sin ningún corte. Al final conseguimos emitir con calidad con: Jit.Si + OBS Studio + Youtube. Con ello también solucionamos las grabaciones, ya que Youtube te guarda la emisión una vez finalizada y de ahí podemos extraer sin problema el audio para el podcast.</p> <p><img src="https://maratonlinuxero.github.io/images/00MaratonLinuxero03.jpg" alt="OBSStudio" /></p> <p>Aquí tienes la emisión en Youtube:</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/LlUSSWmkuE0" frameborder="0" allowfullscreen=""></iframe> <p>Y aquí el audio extraído:</p> <audio controls=""> <source src="https://ia801501.us.archive.org/17/items/00PrimerasPruebasDelMaratnLinuxero/%2300%20Primeras%20pruebas%20del%20Marat%C3%B3n%20Linuxero.ogg" type="audio/mpeg" /> </audio> <p>Recuerda que puedes <strong>contactar</strong> de las siguientes formas:</p> <ul> <li>Blog: <a href="https://maratonlinuxero.github.io/">https://maratonlinuxero.github.io/</a></li> <li>Twitter: <a href="https://twitter.com/maratonlinuxero">https://twitter.com/maratonlinuxero</a></li> <li>Correo: <a href="mailto:maratonlinuxero@gmail.com">maratonlinuxero@gmail.com</a></li> <li>Telegram: <a href="https://t.me/maratonlinuxero">https://t.me/maratonlinuxero</a></li> <li>Youtube: <a href="https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ">https://www.youtube.com/channel/UCqFf7ygeietihuh5GSEj3oQ</a></li> <li>Feed Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">http://maratonlinuxero.github.io/feed.xml</a></li> <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">https://archive.org/details/@maratonlinuxero</a></li> </ul>
+]]>
+</itunes:summary>
+<itunes:author>Podcasteros Linuxeros</itunes:author>
+<itunes:image href="http://maratonlinuxero.github.io/images/logoMaratonLinuxero.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration/>
+</item>
+</channel>
+</rss>
