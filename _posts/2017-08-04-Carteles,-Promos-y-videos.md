@@ -21,6 +21,8 @@ Con ese fin hemos querido realizar de forma colaborativa carteles, promos de aud
 
 ![#Cartel5](https://maratonlinuxero.github.io/images/CartelMaratonLinuxero5.png)
 
+![#Cartel6](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)
+
 **Wallpapers:** Iñaki Pinto ha elaborado una gran cantidad, 188 en total, de fondos de escritorio de muchísimas distros para animar los directos en Youtube.
 
 ![#Wallpapers](https://maratonlinuxero.github.io/images/wallpapers.png)  
