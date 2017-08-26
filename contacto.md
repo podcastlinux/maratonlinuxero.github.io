@@ -15,6 +15,7 @@ Si quieres <strong>contactar</strong> con nosotros lo puedes hacer a través de:
   <li>Canal de YouTube: <a href="https://www.youtube.com/maratonlinuxero">Maratón Linuxero</a></li>
   <li>Radio Oficial: <a href="http://radiomaraton.ml/">Radio Maratón</a></li>
   <li>Podcast Maratón Linuxero: <a href="http://maratonlinuxero.github.io/feed.xml">Feed Maratón Linuxero</a></li>
+  <li>Podcast Maratón Linuxero formato ogg: <a href="http://maratonlinuxero.github.io/feed_ogg.rss">Feed ogg Maratón Linuxero</a></li>
   <li>Audios en Archive.org: <a href="https://archive.org/details/@maratonlinuxero">Maratón Linuxero</a></li>
 </ul>
 
