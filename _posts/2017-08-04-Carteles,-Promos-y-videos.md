@@ -43,7 +43,6 @@ Promo 1: Estándar
 </audio>  
 Obra realizada por Mathias Tolosa (CC BY-NC-SA)
 
-
 Promo 2: Épica
 <audio controls>
   <source src="https://github.com/maratonlinuxero/maratonlinuxero.github.io/raw/master/images/PromoMaratonLinuxero2.mp3" type="audio/mpeg">
