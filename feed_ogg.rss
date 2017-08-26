@@ -1,9 +1,9 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
 <channel>
-<title>Sesiones del I Maratón Linuxero.</title>
+<title>Sesiones del I Maratón Linuxero formato ogg.</title>
 <atom:link href="http://maratonlinuxero.github.io/feed/podcast" rel="self" type="application/rss+xml"/>
 <link>http://maratonlinuxero.github.io</link>
-<description>Los audios del I Maratón Linuxero.</description>
+<description>Los audios del I Maratón Linuxero formato ogg.</description>
 <lastBuildDate>Sat, 26 Aug 2017 07:53:14 +0000</lastBuildDate>
 <language>es-es</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
