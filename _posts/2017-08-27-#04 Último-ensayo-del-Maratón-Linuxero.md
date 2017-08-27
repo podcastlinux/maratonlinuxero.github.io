@@ -14,7 +14,7 @@ Tuvimos varias incidencias de emisión en los primeros minutos, pero en general 
 
 Realizaremos varios sorteos en directo.
 
-**__4 Directos:__**
+**4 Directos:**
 
 **15:00 - 16:00: Recta final del Maratón Linuxero.**
 Paco Estrada, Yoyo Fernández y Juan Febles dialogan sobre la recta final del evento.
