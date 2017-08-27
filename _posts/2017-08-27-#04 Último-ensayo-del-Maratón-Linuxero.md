@@ -8,17 +8,16 @@ podcast_link: https://ia601501.us.archive.org/16/items/04UltimoEnsayo/%2304Ultim
 tags: [audio, podcast, pruebas,]
 comments: true
 ---
-El 27 de agosto tendremos nuestra última prueba antes del evento.
-Los directos se realizarán por temáticas de una hora al igual que el Maratón Linuxero del 3 de septiembre.
+El 27 de agosto hemos tenido nuestra última prueba antes del evento.
+Los directos se realizaron por temáticas de una hora al igual que el Maratón Linuxero del 3 de septiembre.
+Tuvimos varias incidencias de emisión en los primeros minutos, pero en general fue bastante bien.
 
 Realizaremos varios sorteos en directo.
 
-__**4 Directos:**__
+**__4 Directos:__**
 
 **15:00 - 16:00: Recta final del Maratón Linuxero.**
 Paco Estrada, Yoyo Fernández y Juan Febles dialogan sobre la recta final del evento.
-
-
 
 **16:00 - 17:00: Desarrollo de proyectos libres con Github y Gitlab.**
 En esta charla hemos hecho una pequeña introducción a lo que es Github y Gitlab y hemos comentado como usarlas para crear proyectos libres y como colaborar con otros proyectos libres alojados en estas plataformas, tanto si el usuario es desarrollador/programador, como si es un usuario iniciado en estos temas.
