@@ -12,7 +12,8 @@ Otro aspecto que queremos resaltar es la **colaboración de empresas Linuxeras e
 [Sorteos en el Maratón Linuxero](https://maratonlinuxero.github.io/Sorteos/)
 
 **La parrilla de directos** propuesta es la siguiente: 
-[Horario Directos](https://maratonlinuxero.github.io/horarios/)
+![#CartelDirectos](https://maratonlinuxero.github.io/images/carteldirectosmaratonlinuxero.png)  
+Obra realizada por Dan Bernal Tapia (CC BY-NC-SA)
 
 Cada hora será conducida por uno o más divulgadores y/o podcasters de habla hispana ampliamente reconocidos por las comunidades GNU/Linux.
 
@@ -25,10 +26,12 @@ Actualmente el **Canal de Telegram** nos sirve para vertebrar y tomar decisiones
 
 + Blog: <https://maratonlinuxero.github.io/>
 + Telegram: <https://t.me/maratonlinuxero>
++ Mastodon: <https://mastodon.social/@maratonlinuxero>
 + Twitter: <https://twitter.com/maratonlinuxero>
 + Correo: <maratonlinuxero@gmail.com>
 + Youtube: <https://www.youtube.com/maratonlinuxero>
 + Radio Maratón: <http://www.radiomaraton.ml>
 + Feed Podcast Maratón Linuxero: <http://maratonlinuxero.github.io/feed.xml>
++ Feed Podcast Maratón Linuxero formato ogg: <http://maratonlinuxero.github.io/feed_ogg.rss>
 + Audios en Archive.org: <https://archive.org/details/@maratonlinuxero>
 <br clear="all"/>
