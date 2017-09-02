@@ -15,7 +15,7 @@ Si esta opción no es de tu agrado, puedes utilizar nuestra Radio Oficial que em
      Your browser does not support the audio element.
 </audio>
 
-Dan Bernal Tapia a creado una app de Radio Maratón para Android: [Descarga](http://maratonlinuxero.github.io/Maraton-Linuxero_1.3.apk)
+Dan Bernal Tapia ha creado una app de Radio Maratón para Android: [Descarga](http://maratonlinuxero.github.io/Maraton-Linuxero_1.3.apk)
 
 Para no perderte ninguna de las pruebas y el directo del 3 de septiembre, lo mejor es suscribirte a nuesto canal <https://youtube.com/maratonlinuxero>
 
