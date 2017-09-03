@@ -15,6 +15,10 @@ Si esta opción no es de tu agrado, puedes utilizar nuestra Radio Oficial que em
      Your browser does not support the audio element.
 </audio>
 
+Si utilizas dispositivos IOS, utiliza el siguiente reproductor con formato mp3
+
+<audio><source src="http://200.24.229.253:8888/;?type=http" type="audio/mpeg"></audio>
+
 Dan Bernal Tapia ha creado una app de Radio Maratón para Android: [Descarga](http://maratonlinuxero.github.io/Maraton-Linuxero_1.3.apk)
 
 Para no perderte ninguna de las pruebas y el directo del 3 de septiembre, lo mejor es suscribirte a nuesto canal <https://youtube.com/maratonlinuxero>
