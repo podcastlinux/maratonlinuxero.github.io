@@ -18,7 +18,7 @@ Si esta opción no es de tu agrado, puedes utilizar nuestra Radio Oficial que em
 Si utilizas dispositivos IOS, utiliza el siguiente reproductor con formato mp3
 
 <audio controls>
-     <source src="http://200.24.229.253:8888/;?type=http" type="audio/mpeg"></audio>
+     <source src="http://200.24.229.253:8888/;?type=http" type="audio/mpeg">
      Your browser does not support the audio element.
 </audio>
 
