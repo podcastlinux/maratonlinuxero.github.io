@@ -3,6 +3,10 @@ layout: page
 title: Maratón Linuxero en vivo
 permalink: /directo/
 ---
+Aquí tienes el vídeo en bruto, los 9 directos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yv90j2HVg1Q?start=1710" frameborder="0" allowfullscreen></iframe>
+
 
 Hemos decidido utilizar Youtube para emitir en directo por su facilidad, el poder llegar a muchos linuxeros que ya tienen cuenta y por el chat en vivo que facilita mucho el feedback.  
 <https://youtube.com/maratonlinuxero/live>
